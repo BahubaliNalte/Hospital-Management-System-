@@ -1,9 +1,9 @@
-#Prerequisites
+# Prerequisites
 1.Install XAMPP web server
 2.Any Editor (Preferably VS Code or Sublime Text)
 3.Any web browser with latest version
 
-#Languages and Technologies used
+# Languages and Technologies used
 1.HTML5/CSS3
 2.JavaScript (to create dynamically updating content)
 3.Bootstrap (An HTML, CSS, and JS library)
@@ -12,7 +12,7 @@
 6.MySQL (An RDBMS that uses SQL)
 7.TCPDF (to generate PDFs)
 
-#Steps to run the project in your machine
+# Steps to run the project in your machine
 1.Download and install XAMPP in your machine
 2.Clone or download the repository
 3.Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
