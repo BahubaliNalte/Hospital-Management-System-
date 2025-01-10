@@ -22,4 +22,7 @@
 7.Import the file 'myhmsdb.sql' inside your newly created database and click ok.   
 8.Open a new tab and type 'localhost/foldername' in the url of your browser   
 9.Hurray! That's it!  
+
+# HOSTED LINK
+
   
